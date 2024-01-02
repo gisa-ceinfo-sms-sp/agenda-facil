@@ -3,7 +3,7 @@ Sistema para agendamento e gestão de vagas em Serviços de Saúde do SUS dispon
 
 Link para acesso à plataforma na internet: https://agendafacil.prefeitura.sp.gov.br/saude
 
-App para celular e outros dispositivos móveis: <a href="[https://www.example.com](https://play.google.com/store/apps/details?id=saude.prefeitura.sp.gov.br.autoagendamento&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)">Android</a> | (a href="https://itunes.apple.com/br/app/agenda-facil/id1359873566?mt=8">IoS</href>
+App para celular e outros dispositivos móveis: <a href="https://play.google.com/store/apps/details?id=saude.prefeitura.sp.gov.br.autoagendamento&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1">Android</a> | <a href="https://itunes.apple.com/br/app/agenda-facil/id1359873566?mt=8">IoS</href>
 
 Cadstro para uso do sistema: https://agendafacil.prefeitura.sp.gov.br/saude/Account/EnderecoViaCep
 
